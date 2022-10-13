@@ -1,0 +1,2 @@
+netsh wlan show profiles   ---> for showing wifi ever connected
+netsh wlan show profiles "ssid terget" key=clear   ---> change ssid name target without "...". key=clear is to reveal the password
